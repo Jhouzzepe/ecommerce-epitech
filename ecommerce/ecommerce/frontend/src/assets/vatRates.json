@@ -1,0 +1,103 @@
+[
+    {
+      "code": "FR",
+      "name": "France",
+      "rate": 0.20
+    },
+    {
+      "code": "DE",
+      "name": "Allemagne",
+      "rate": 0.19
+    },
+    {
+      "code": "ES",
+      "name": "Espagne",
+      "rate": 0.21
+    },
+    {
+      "code": "IT",
+      "name": "Italie",
+      "rate": 0.22
+    },
+    {
+      "code": "GB",
+      "name": "Royaume-Uni",
+      "rate": 0.20
+    },
+    {
+      "code": "NL",
+      "name": "Pays-Bas",
+      "rate": 0.21
+    },
+    {
+      "code": "BE",
+      "name": "Belgique",
+      "rate": 0.21
+    },
+    {
+      "code": "SE",
+      "name": "Suède",
+      "rate": 0.25
+    },
+    {
+      "code": "DK",
+      "name": "Danemark",
+      "rate": 0.25
+    },
+    {
+      "code": "AT",
+      "name": "Autriche",
+      "rate": 0.20
+    },
+    {
+      "code": "RU",
+      "name": "Russie",
+      "rate": 0.20
+    },
+    {
+      "code": "PL",
+      "name": "Pologne",
+      "rate": 0.23
+    },
+    {
+      "code": "CZ",
+      "name": "République tchèque",
+      "rate": 0.21
+    },
+    {
+      "code": "HU",
+      "name": "Hongrie",
+      "rate": 0.27
+    },
+    {
+      "code": "FI",
+      "name": "Finlande",
+      "rate": 0.24
+    },
+    {
+      "code": "US",
+      "name": "États-Unis",
+      "rate": 0.00
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "rate": 0.05
+    },
+    {
+      "code": "JP",
+      "name": "Japon",
+      "rate": 0.10
+    },
+    {
+      "code": "AU",
+      "name": "Australie",
+      "rate": 0.10
+    },
+    {
+      "code": "CN",
+      "name": "Chine",
+      "rate": 0.13
+    }
+  ]
+  

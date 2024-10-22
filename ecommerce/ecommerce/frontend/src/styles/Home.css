@@ -1,0 +1,11 @@
+.bg-special-offers {
+  background-size: cover;
+  background-position: top;
+}
+
+@media (min-width: 1024px) {
+  .bg-special-offers {
+    background-size: 100%;
+    background-position: top;
+  }
+}

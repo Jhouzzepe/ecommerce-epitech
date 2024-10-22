@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+/backend/env/
+.env/
+env/
+venv/
+.venv/
+db.sqlite3
+
+# Django
+*.log
+staticfiles/
+media/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.parcel-cache/
+.next/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store

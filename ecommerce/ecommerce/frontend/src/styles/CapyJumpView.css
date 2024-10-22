@@ -1,0 +1,13 @@
+.game-container {
+  position: relative;
+  width: 500px;
+  height: 700px;
+  margin: 0 auto;
+  border: 10px solid black; /* Bordure noire autour du jeu */
+  box-sizing: border-box; /* Assure que les bordures sont incluses dans les dimensions */
+}
+
+canvas {
+  display: block; /* Supprime les marges supplémentaires autour du canvas */
+  background-color: #fff; /* Couleur de fond du canvas, peut être modifiée */
+}
